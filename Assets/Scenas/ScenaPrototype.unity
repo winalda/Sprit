@@ -135,7 +135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6be3ef0168ff46d180a3ff38713112e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newSpritman: {fileID: 1603353033809398, guid: 149d7c20f9cd34abc90da8d5df69fa7c,
+  newSpritman: {fileID: 1151058692783652, guid: 149d7c20f9cd34abc90da8d5df69fa7c,
     type: 2}
   stopSpritman: {fileID: 1551655695462588, guid: a6fc8789f72a04857b8c5766e01a1ddb,
     type: 2}
@@ -312,7 +312,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 8.699319
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
