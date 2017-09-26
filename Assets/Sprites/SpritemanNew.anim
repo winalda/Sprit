@@ -117,10 +117,10 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_GenerateMotionCurves: 0
   m_Events:
-  - time: 1.5
+  - time: 1.4166666
     functionName: PrintFloat
     data: 
-    objectReferenceParameter: {fileID: 1551655695462588, guid: a6fc8789f72a04857b8c5766e01a1ddb,
+    objectReferenceParameter: {fileID: 1735360137397498, guid: a6fc8789f72a04857b8c5766e01a1ddb,
       type: 2}
     floatParameter: 0
     intParameter: 0

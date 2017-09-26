@@ -51,8 +51,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scrips\Character.cs" />
+     <Compile Include="Assets\Scrips\Init.cs" />
      <Compile Include="Assets\Scrips\NewCharacter.cs" />
+     <Compile Include="Assets\Scrips\RunCharacter.cs" />
+     <Compile Include="Assets\Scrips\stopChracter.cs" />
+     <Compile Include="Assets\Scrips\UpCharacter.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>

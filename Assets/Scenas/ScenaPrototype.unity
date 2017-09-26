@@ -135,11 +135,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6be3ef0168ff46d180a3ff38713112e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newSpritman: {fileID: 1151058692783652, guid: 149d7c20f9cd34abc90da8d5df69fa7c,
-    type: 2}
-  stopSpritman: {fileID: 1551655695462588, guid: a6fc8789f72a04857b8c5766e01a1ddb,
-    type: 2}
-  RunSpritman: {fileID: 1921870508649072, guid: 80d77ff24d8874bc1bb48d2d37291293,
+  newSpritman: {fileID: 1558968068510556, guid: 149d7c20f9cd34abc90da8d5df69fa7c,
     type: 2}
 --- !u!4 &806660967
 Transform:
@@ -231,8 +227,8 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 913396855}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7, y: -4, z: 0}
-  m_LocalScale: {x: 6.4821644, y: 1, z: 1}
+  m_LocalPosition: {x: 1.233, y: -4, z: 0}
+  m_LocalScale: {x: 22.947752, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
