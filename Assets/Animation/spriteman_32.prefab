@@ -100,6 +100,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stopSprite: {fileID: 1735360137397498, guid: a6fc8789f72a04857b8c5766e01a1ddb, type: 2}
+  upSprite: {fileID: 1170924195252772, guid: 8d6054eebdfe2421791bf906ea99041d, type: 2}
 --- !u!212 &212383817178312480
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -102,6 +102,7 @@ MonoBehaviour:
   runSpritman: {fileID: 1921870508649072, guid: 80d77ff24d8874bc1bb48d2d37291293,
     type: 2}
   upSprite: {fileID: 1170924195252772, guid: 8d6054eebdfe2421791bf906ea99041d, type: 2}
+  stopSprite: {fileID: 1558968068510556, guid: 149d7c20f9cd34abc90da8d5df69fa7c, type: 2}
 --- !u!212 &212216882551737968
 SpriteRenderer:
   m_ObjectHideFlags: 1
